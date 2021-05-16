@@ -1,4 +1,4 @@
-# simpletcp.py
+# PythonTCP
 
 
 tcpclient.py -------> Simple TCP client example with Python
