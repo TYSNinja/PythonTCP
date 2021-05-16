@@ -1,2 +1,3 @@
 # simpletcp.py
-Simple TCP client  example with Python
+tcpclient.py -------> Simple TCP client example with Python
+tcpserver.py -------> Simple TCP Server example with Python
