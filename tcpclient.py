@@ -1,6 +1,6 @@
 import socket
 target_srv= "SERVER_ADDRESS" #set this variable
-target_port= "SERVER PORT"  #set this variable
+target_port= "SERVER PORT" #set this variable without ""
 
 #create a socket
 my_client=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
